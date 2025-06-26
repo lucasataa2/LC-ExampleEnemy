@@ -10,33 +10,33 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
-  m_Name: ExampleEnemyTN
+  m_Name: HappyEnemyTN
   m_EditorClassIdentifier: 
   displayText: 'Example Enemy
 
 
-    Sigurd''s danger level: ?%
+    Sigurd''s danger level: 7
 
 
     Scientific name:
-    Enemius Examplus
+    Happy Ball
 
 
-    The Example Enemy! The Example Enemy is real! - Sigurd'
+    a bola do lucas !'
   terminalEvent: 
   clearPreviousText: 1
   maxCharactersToType: 35
   buyItemIndex: -1
+  buyVehicleIndex: 0
   isConfirmationNode: 0
   buyRerouteToMoon: -1
   displayPlanetInfo: -1
-  lockedInDemo: 0
   shipUnlockableID: -1
   buyUnlockable: 0
   returnFromStorage: 0
   itemCost: 0
   creatureFileID: 7014
-  creatureName: Example Enemy
+  creatureName: Happy Ball
   storyLogFileID: -1
   overrideOptions: 0
   acceptAnything: 0
